@@ -1,1 +1,1 @@
-Configurando primemeiro servidor Node.
+Configurando primeiro servidor Node.
